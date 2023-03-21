@@ -1,0 +1,20 @@
+/* .box1{
+    background-color: gray;
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    padding: 50px;  적용된 색이 같이 적용됨 
+    margin: 50px;
+} */
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+}
+
+.box1{
+    padding: 50px;
+    border: 1px solid blue;
+
+}
